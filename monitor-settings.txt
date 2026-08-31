@@ -1,0 +1,13 @@
+Game Settings:
+dyac: prem
+black equalizer: 10
+color vibrance: 17
+low blue light: 2
+instant mode: on
+Picture:
+brightness: 100
+contrast 60
+sharpness: 8
+gamma: gamma 2
+color temperature: normal
+ama: high
